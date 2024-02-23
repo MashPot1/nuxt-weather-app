@@ -1,6 +1,6 @@
 # Nuxt Weather App
 
-This is a weather forecast application where you can view the weather for a specific city and also get an hourly forecast for the next 3 days.
+This is a weather forecast application where you can view the weather for a specific city and also get an hourly forecast for the next 3 days. It retrieves information using the OpenWeatherMap API.
 
 ## Setup
 
